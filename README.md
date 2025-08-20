@@ -13,3 +13,6 @@ Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e
 - **Google Fonts**: Fontes
 
 - Créditos a: Larissa Kich criadora e instrutora de criação da Landing Page.
+
+- Landing Page Original
+**[Ver Projeto Online](https://larissakich.github.io/landing-page-food-theme/)**
